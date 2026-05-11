@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app/app_logo.png" alt="GRIP app icon" width="128" height="128" />
+  <img src="/AppLogoGreen.png)" alt="GRIP app icon" width="128" height="128" />
 </p>
 
 <h1 align="center">GRIP</h1>
